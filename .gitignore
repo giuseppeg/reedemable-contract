@@ -1,0 +1,5 @@
+migrations/*.js
+!migrations/1_initial_migration.js
+package-lock.json
+node_modules
+build

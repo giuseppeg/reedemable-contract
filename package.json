@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "truffle": "^5.4.17"
+  },
+  "dependencies": {
+    "@manifoldxyz/libraries-solidity": "^1.0.2",
+    "@manifoldxyz/royalty-registry-solidity": "^1.0.4",
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
